@@ -1,4 +1,5 @@
 <div  align="center" style="margin-bottom:100px">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=guilherme-lapa&show_icons=true&title_color=fe428e&text_color=99e5e0&icon_color=3572a5&bg_color=141321&cache_seconds=2300" alt="ilustração do status do github">
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=guilherme-lapa&show_icons=true&theme=radical&layout=compact" />
  </div>
  
