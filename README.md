@@ -17,6 +17,7 @@
 
 Desenvolvedor Full-Stack com foco em construir aplicações web modernas, APIs robustas e interfaces intuitivas. Apaixonado por boas práticas de código, testes automatizados e documentação clara.
 
+- 🚀 **SaaS Builder** — produtos do zero ao deploy, com foco em automação e sistemas web escaláveis
 - ⚡ **Back-end** — APIs RESTful com FastAPI, SQLAlchemy e Python
 - 🎨 **Front-end** — interfaces modernas com React, Next.js e TypeScript
 - 🧪 **Qualidade** — testes unitários e de integração com pytest
