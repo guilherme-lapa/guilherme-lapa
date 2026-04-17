@@ -77,6 +77,16 @@ Desenvolvedor Full-Stack com foco em construir aplicações web modernas, APIs r
 
 ---
 
+### 📊 [Saúde Dashboard](https://github.com/guilherme-lapa/saude-dashboard)
+> Dashboard interativo de gestão de saúde com métricas e gráficos em tempo real.
+
+- Cards de métricas com variação percentual e gráficos de área e pizza interativos
+- Tabela de consultas recentes e feed de atividades com filtro por status
+- Sidebar de navegação responsiva com layout aninhado via App Router
+- **Stack:** Next.js 14 · TypeScript · Tailwind CSS · Recharts
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
