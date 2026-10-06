@@ -32,6 +32,7 @@ Desenvolvedor Full-Stack com foco em construir aplicações web modernas, APIs r
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
